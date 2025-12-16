@@ -8,7 +8,6 @@ C-LINGO C Project (v3) - Smart Flashcard Edition
 - User profiles saved in data/users.txt
 - Tracks wrong answers per item (mistakes)
 - Flashcard mode:
-    - Shows ONLY words with frequent mistakes (mistakes >= 2)
 
 Build (Windows, MinGW):
 
